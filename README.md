@@ -21,4 +21,4 @@ The user should be able to click on a Pokémon for more information.
 
 ## Submitting your code
 
-* Please submitt a Pull Request to this repository when your code is ready.
+* Please submit a Pull Request to this repository when your code is ready.
